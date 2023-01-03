@@ -4,7 +4,7 @@
 
 > **_At heart, I am a puzzle addict..._**
 
-<font size="3">🏳️‍🌈 Originally, I am from the USA but have recently relocated to Spain with my wife. I am a student of life who was gifted the infinite gift of curiosity. This gift has led me through various experiences, such as:
+<font size="5">🏳️‍🌈 Originally, I am from the USA but have recently relocated to Spain with my wife. I am a student of life who was gifted the infinite gift of curiosity. This gift has led me through various experiences, such as:
 
 - ✏️ media arts and animation
 - 🩺 nursing
