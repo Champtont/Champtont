@@ -4,13 +4,13 @@
 
 > **_At heart, I am a puzzle addict..._**
 
-🏳️‍🌈 Originally, I am from the USA but have recently relocated to Spain with my wife. I am a student of life who was gifted the infinite gift of curiosity. This gift has led me through various experiences, such as:
+<font size="3">🏳️‍🌈 Originally, I am from the USA but have recently relocated to Spain with my wife. I am a student of life who was gifted the infinite gift of curiosity. This gift has led me through various experiences, such as:
 
 - ✏️ media arts and animation
 - 🩺 nursing
 - ⚡ welding
 
-...and now it has led me to coding. At heart, I am a puzzle addict and for this reason, I am obsessed with coding. There are endless solutions to each problem. I find myself dreaming of solutions. I am excited about being able to use my creativity to problem solve. I am excited to find that the learning in this field will never end.
+...and now it has led me to coding. At heart, I am a puzzle addict and for this reason, I am obsessed with coding. There are endless solutions to each problem. I find myself dreaming of solutions. I am excited about being able to use my creativity to problem solve. I am excited to find that the learning in this field will never end.</font>
 
 ---
 
