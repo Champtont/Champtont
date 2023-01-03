@@ -4,9 +4,9 @@
 
 ## 🧰 Toolbox
 
-<img src="/assets/HTMLlogo.png" width="50px">
-![CSS logo]()
-![JavaScript logo]()
+<img src="/assets/HTMLlogo.png" alt="Html logo" width="50px">
+<img src="/assets/CSSlogo.png" alt="Css logo" width="50px">
+<img src="/assets/JSlogo.png" alt="JavaScript Logo" width="50px">
 ![TypeScript logo]()
 ![React logo]()
 ![Redux logo]()
