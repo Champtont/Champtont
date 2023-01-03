@@ -1,4 +1,16 @@
-# ![Blue jaye Banner](/assets/LogoBackground2.png) Hi there 👋
+# ![Blue jaye Banner](/assets/LogoBackground2.png) <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" alt="big hello" height="60"/>
+
+## About Me:
+
+> **_At heart, I am a puzzle addict..._**
+
+Originally, I am from the USA but have recently relocated to Spain with my wife. I am a student of life who was gifted the infinite gift of curiosity. This gift has led me through various experiences, such as:
+
+- media arts and animation
+- nursing
+- welding
+
+...and now it has led me to coding. At heart, I am a puzzle addict and for this reason, I am obsessed with coding. There are endless solutions to each problem. I find myself dreaming of solutions. I am excited about being able to use my creativity to problem solve. I am excited to find that the learning in this field will never end.
 
 ---
 
