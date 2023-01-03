@@ -1,4 +1,27 @@
-# ![Blue jaye Banner](/assets/LogoBackground2.png) Hi there 👋
+<style>
+    .blue{
+        color:blue;
+    }
+    .rounded{
+        border-radius:10px;
+    }
+</style>
+
+<div><img src="/assets/LogoBackground2.png" alt="Blue Jaye Banner" class="rounded"/></div>
+# Hi there 👋
+
+---
+
+<div class="blue">
+## 🧰 Toolbox
+</div>
+![html logo]()
+![CSS logo]()
+![JavaScript logo]()
+![TypeScript logo]()
+![React logo]()
+![Redux logo]()
+![Bootstraplogo]()
 
 <!--
 **Champtont/Champtont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
