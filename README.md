@@ -4,11 +4,11 @@
 
 > **_At heart, I am a puzzle addict..._**
 
-Originally, I am from the USA but have recently relocated to Spain with my wife. I am a student of life who was gifted the infinite gift of curiosity. This gift has led me through various experiences, such as:
+🏳️‍🌈 Originally, I am from the USA but have recently relocated to Spain with my wife. I am a student of life who was gifted the infinite gift of curiosity. This gift has led me through various experiences, such as:
 
-- media arts and animation
-- nursing
-- welding
+- ✏️ media arts and animation
+- 🩺 nursing
+- ⚡ welding
 
 ...and now it has led me to coding. At heart, I am a puzzle addict and for this reason, I am obsessed with coding. There are endless solutions to each problem. I find myself dreaming of solutions. I am excited about being able to use my creativity to problem solve. I am excited to find that the learning in this field will never end.
 
@@ -16,7 +16,7 @@ Originally, I am from the USA but have recently relocated to Spain with my wife.
 
 ## 🧰 Toolbox
 
-<img src="/assets/HTMLlogo.png" alt="Html logo" width="50px"/> <img src="/assets/CSSlogo.png" alt="Css logo" width="50px"> <img src="/assets/JSlogo.png" alt="JavaScript Logo" width="50px"/> <img src="/assets/TSlogo.png" alt="typescript logo" width="50px"/> <img src="/assets/Reactlogo.png" alt="react logo" width="50px"/> <img src="/assets/Reduxlogo.png" alt="redux logo" width="50px"/> <img src="/assets/Bootstraplogo.png" alt="bootstrap logo" width="50px"/> <img src="/assets/nodejslogo.png" alt="node.js logo" width="50px"/> <img src="/assets/Photoshoplogo.png" alt="Photoshop logo" width="50px"/>
+<img src="/assets/HTMLlogo.png" alt="Html logo" width="50px"/> <img src="/assets/CSSlogo.png" alt="Css logo" width="50px"> <img src="/assets/JSlogo.png" alt="JavaScript Logo" width="50px"/> <img src="/assets/gitlogo.png" alt="git logo" width="50px"/><img src="/assets/TSlogo.png" alt="typescript logo" width="50px"/> <img src="/assets/Reactlogo.png" alt="react logo" width="50px"/> <img src="/assets/Reduxlogo.png" alt="redux logo" width="50px"/> <img src="/assets/Bootstraplogo.png" alt="bootstrap logo" width="50px"/> <img src="/assets/nodejslogo.png" alt="node.js logo" width="50px"/> <img src="/assets/Photoshoplogo.png" alt="Photoshop logo" width="50px"/>
 
 <!--
 **Champtont/Champtont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
