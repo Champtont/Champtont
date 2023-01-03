@@ -1,20 +1,9 @@
-<style>
-    .blue{
-        color:blue;
-    }
-    .rounded{
-        border-radius:10px;
-    }
-</style>
-
-<div><img src="/assets/LogoBackground2.png" alt="Blue Jaye Banner" class="rounded"/></div>
-# Hi there 👋
+# ![Blue jaye Banner](/assets/LogoBackground2.png) Hi there 👋
 
 ---
 
-<div class="blue">
 ## 🧰 Toolbox
-</div>
+
 ![html logo]()
 ![CSS logo]()
 ![JavaScript logo]()
