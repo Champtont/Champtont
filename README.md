@@ -4,8 +4,7 @@
 
 ## 🧰 Toolbox
 
-![html logo](https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png)
-<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="60px">
+<img src="/assets/HTMLlogo.png" width="50px">
 ![CSS logo]()
 ![JavaScript logo]()
 ![TypeScript logo]()
