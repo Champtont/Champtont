@@ -20,6 +20,10 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=champtont&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## Let's Connect
 
 <a href="https://www.linkedin.com/in/courtney-hampton-thomas-4942a8257/"><img src="/assets/linkedinlogo.png" alt="linkedin Link" width="50px"/></a>
