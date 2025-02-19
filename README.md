@@ -4,13 +4,20 @@
 
 > **_At heart, I am a puzzle addict..._**
 
-🏳️‍🌈 Originally, I am from the USA but have recently relocated to Spain with my wife. I am a student of life who was gifted the infinite gift of curiosity. This gift has led me through various experiences, such as:
+Full-Stack Developer | Human-Centered Technologist | Former Nurse Turned Engineer
 
-- ✏️ media arts and animation
-- 🩺 nursing
-- ⚡ welding
+Hi! I'm a Full-Stack Developer originally from the U.S., now based in Barcelona, Spain. My journey into tech is a natural evolution of my skills, building on 10+ years of experience in the nursing field, where problem-solving, critical thinking, and human-centered solutions were at the core of my work.
 
-...and now it has led me to coding. At heart, I am a puzzle addict and for this reason, I am obsessed with coding. There are endless solutions to each problem. I find myself dreaming of solutions. I am excited about being able to use my creativity to problem solve. I am excited to find that the learning in this field will never end.
+Passionate about creating impactful digital experiences, I leverage my expertise to develop intuitive, user-friendly applications that make a difference. My technical stack includes:
+
+🔹 Frontend: HTML, CSS, SCSS, Bootstrap, JavaScript, React, Next, Redux, TypeScript, Vue, Pinia, Python, etc.
+🔹 Backend: Express.js, Node.js, NoSQL (MongoDB), SQL (PostgreSQL), etc.
+
+I’m always open to collaborative projects, new opportunities, and networking. Feel free to explore my work:
+🌐 Portfolio: champtont.github.io/MyPortfolio
+💻 GitHub: github.com/Champtont
+
+Let’s connect! 🚀
 
 ---
 
