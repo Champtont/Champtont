@@ -25,12 +25,6 @@ Let’s connect! 🚀
 
 <img src="/assets/HTMLlogo.png" alt="Html logo" width="50px"/> <img src="/assets/CSSlogo.png" alt="Css logo" width="50px"> <img src="/assets/JSlogo.png" alt="JavaScript Logo" width="50px"/> <img src="/assets/gitlogo.png" alt="git logo" width="50px"/><img src="/assets/TSlogo.png" alt="typescript logo" width="50px"/> <img src="/assets/Reactlogo.png" alt="react logo" width="50px"/> <img src="/assets/Reduxlogo.png" alt="redux logo" width="50px"/> <img src="/assets/Bootstraplogo.png" alt="bootstrap logo" width="50px"/> <img src="/assets/nodejslogo.png" alt="node.js logo" width="50px"/> <img src="/assets/Photoshoplogo.png" alt="Photoshop logo" width="50px"/>
 
----
-
-## Let's Connect
-
-<a href="https://www.linkedin.com/in/courtney-hampton-thomas-4942a8257/"><img src="/assets/linkedinlogo.png" alt="linkedin Link" width="50px"/></a>
-
 <!--
 **Champtont/Champtont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
