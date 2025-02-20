@@ -15,7 +15,7 @@ Passionate about creating impactful digital experiences, I leverage my expertise
 
 I’m always open to collaborative projects, new opportunities, and networking. Feel free to explore my work: <br/>
 🌐 Portfolio: [champtont.github.io/MyPortfolio](champtont.github.io/MyPortfolio) <br/>
-💻 GitHub: [github.com/Champtont](github.com/Champtont)
+💻 LinkedIn: [https://www.linkedin.com/in/courtney-hampton-thomas/](https://www.linkedin.com/in/courtney-hampton-thomas/)
 
 Let’s connect! 🚀
 
