@@ -1,4 +1,4 @@
-# ![Blue jaye Banner](/assets/FullStack_Developer.gif)
+# ![Blue jaye Banner](/assets/FullStack%20Developer.gif)
 
 ## About Me:
 
