@@ -14,7 +14,7 @@ Passionate about creating impactful digital experiences, I leverage my expertise
 🔹 Backend: Express.js, Node.js, NoSQL (MongoDB), SQL (PostgreSQL), etc.
 
 I’m always open to collaborative projects, new opportunities, and networking. Feel free to explore my work: <br/>
-🌐 Portfolio: [champtont.github.io/MyPortfolio](champtont.github.io/MyPortfolio) <br/>
+🌐 Portfolio: [champtont.github.io/MyPortfolio](https://champtont.github.io/MyPortfolio/#top) <br/>
 💻 LinkedIn: [https://www.linkedin.com/in/courtney-hampton-thomas/](https://www.linkedin.com/in/courtney-hampton-thomas/)
 
 Let’s connect! 🚀
