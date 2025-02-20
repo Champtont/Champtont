@@ -10,12 +10,12 @@ Hi! I'm a Full-Stack Developer originally from the U.S., now based in Barcelona,
 
 Passionate about creating impactful digital experiences, I leverage my expertise to develop intuitive, user-friendly applications that make a difference. My technical stack includes:
 
-🔹 Frontend: HTML, CSS, SCSS, Bootstrap, JavaScript, React, Next, Redux, TypeScript, Vue, Pinia, Python, etc.
+🔹 Frontend: HTML, CSS, SCSS, Bootstrap, JavaScript, React, Next, Redux, TypeScript, Vue, Pinia, Python, etc. <br/>
 🔹 Backend: Express.js, Node.js, NoSQL (MongoDB), SQL (PostgreSQL), etc.
 
 I’m always open to collaborative projects, new opportunities, and networking. Feel free to explore my work:
-🌐 Portfolio: champtont.github.io/MyPortfolio
-💻 GitHub: github.com/Champtont
+🌐 Portfolio: <a>champtont.github.io/MyPortfolio</a>
+💻 GitHub: <a>github.com/Champtont</a>
 
 Let’s connect! 🚀
 
