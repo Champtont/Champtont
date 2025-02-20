@@ -13,9 +13,9 @@ Passionate about creating impactful digital experiences, I leverage my expertise
 🔹 Frontend: HTML, CSS, SCSS, Bootstrap, JavaScript, React, Next, Redux, TypeScript, Vue, Pinia, Python, etc. <br/>
 🔹 Backend: Express.js, Node.js, NoSQL (MongoDB), SQL (PostgreSQL), etc.
 
-I’m always open to collaborative projects, new opportunities, and networking. Feel free to explore my work:
-🌐 Portfolio: <a>champtont.github.io/MyPortfolio</a>
-💻 GitHub: <a>github.com/Champtont</a>
+I’m always open to collaborative projects, new opportunities, and networking. Feel free to explore my work: <br/>
+🌐 Portfolio: [champtont.github.io/MyPortfolio](champtont.github.io/MyPortfolio) <br/>
+💻 GitHub: [github.com/Champtont](github.com/Champtont)
 
 Let’s connect! 🚀
 
